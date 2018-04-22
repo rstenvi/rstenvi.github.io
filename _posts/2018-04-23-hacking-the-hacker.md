@@ -1,7 +1,7 @@
-|||
+---
 layout: post
 title: Hacking the Hacker
-|||
+---
 
 # Introduction
 
